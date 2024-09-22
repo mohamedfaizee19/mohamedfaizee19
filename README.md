@@ -2,7 +2,7 @@
 - 👀 I’m interested in fullstack development
 - 🌱 I’m currently learning fullstack
 - 💞️ I’m looking to collaborate on frontend and backend development
-- 📫 How to reach me by wp 8660838957
+- 📫 reach me by wp 8660838957
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
